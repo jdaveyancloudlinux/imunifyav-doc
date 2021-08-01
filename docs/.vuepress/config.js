@@ -92,6 +92,7 @@ module.exports = {
         // text for the edit-on-github link
         editLinkText: "Edit this page",
         tryFree: "Try Imunify360 For Free",
+        avFree: "Get ImunifyAV free",
         search: "Search",
         // config for Service Worker
         serviceWorker: {
