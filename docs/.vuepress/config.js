@@ -142,6 +142,7 @@ module.exports = {
               "/imunifyav/",
               "/imunifyav_for_plesk/",
               "/imunifyav_for_ispmanager/",
+              "/imunifyav_for_webuzo/",
               "/stand_alone_mode/",
               "/cli/",
               "/config_file_description/",
